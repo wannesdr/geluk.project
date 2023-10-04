@@ -7,13 +7,13 @@ body {
 h2 {
   font-size: 18px;
   line-height: 20px;
-  color: #008000;
+  color: #000000;
   font-weight: normal;
 }
 p {
   font-size: 14px;
   line-height: 20px;
-  color: #111111;
+  color: #000000;
   font-weight: 300;
   width: 960px;
 }
@@ -37,10 +37,10 @@ figure {
   padding: 0 1em;
   border: 1px solid #009cab;
   text-decoration: none;
-  color: #009cab;
+  color: #094D1C;
 }
 
 .site-navigation a:hover {
-  background-color: #009cab;
+  background-color: #6ACF65;
   color: white;
 }
